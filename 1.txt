@@ -1,0 +1,19 @@
+
+High-performance computing (HPC) is the ability to process data and perform complex calculations at high speeds. To put it into perspective, a laptop or desktop with a 3 GHz processor can perform around 3 billion calculations per second. While that is much faster than any human can achieve, it pales in comparison to HPC solutions that can perform quadrillions of calculations per second.
+
+One of the best-known types of HPC solutions is the supercomputer. A supercomputer contains thousands of compute nodes that work together to complete one or more tasks. This is called parallel processing. It’s similar to having thousands of PCs networked together, combining compute power to complete tasks faster.
+
+Why Is HPC Important?
+It is through data that groundbreaking scientific discoveries are made, game-changing innovations are fueled, and quality of life is improved for billions of people around the globe. HPC is the foundation for scientific, industrial, and societal advancements.
+
+As technologies like the Internet of Things (IoT), artificial intelligence (AI), and 3-D imaging evolve, the size and amount of data that organizations have to work with is growing exponentially. For many purposes, such as streaming a live sporting event, tracking a developing storm, testing new products, or analyzing stock trends, the ability to process data in real time is crucial. 
+
+To keep a step ahead of the competition, organizations need lightning-fast, highly reliable IT infrastructure to process, store, and analyze massive amounts of data.
+
+How Does HPC Work?
+HPC solutions have three main components:
+
+Compute
+Network
+Storage
+
