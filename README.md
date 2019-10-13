@@ -1,1 +1,1 @@
-# hpcproj
+want to print the output of terminal in text area in application window .plus if possible i would like to remove stop words from text using library.library is at :"https://github.com/uttesh/exude.git"
